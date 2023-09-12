@@ -12,7 +12,7 @@ I'm Adam Scharf, a software developer in my day job who spends his free time pla
 - Python, Java, C#, FORTRAN
 
 ### 🌱 Things I want to learn next ...
-Golang
+Golang, TypeScript
 
 <!--
 **blue-shoes/blue-shoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
